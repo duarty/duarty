@@ -1,16 +1,19 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/67095986/206874212-020073cb-752d-4bb8-8b47-9fa1802e79c5.png)
+![image](https://user-images.githubusercontent.com/67095986/206874289-dac66d6f-be0d-4e4d-ac4c-953222dffbde.png)
+![image](https://user-images.githubusercontent.com/67095986/206874279-4b3a2b39-317f-412f-bc89-93af3d74bfc0.png)
+![image](https://user-images.githubusercontent.com/67095986/206874233-07ce6e51-e4a1-4129-99a2-50d291d00a5c.png)
+![image](https://user-images.githubusercontent.com/67095986/206874247-2c4e6383-c197-49d4-b249-2d3fed98e99e.png)
+![image](https://user-images.githubusercontent.com/67095986/206874259-494f9d6d-7047-4737-a93d-d3e67ed6d90a.png)
+![image](https://user-images.githubusercontent.com/67095986/206874339-29516a2a-12a6-4425-812c-b7d1142c9385.png)
+![image](https://user-images.githubusercontent.com/67095986/206874343-1a8d47b1-8804-4712-a54d-95c1dd0db05b.png)
+![image](https://user-images.githubusercontent.com/67095986/206874350-ca3ce240-5eef-4ded-919e-f7851c8a5801.png)
+![image](https://user-images.githubusercontent.com/67095986/206874355-ce88fe03-2ded-441e-9f5b-33cd9adea199.png)
+![image](https://user-images.githubusercontent.com/67095986/206874358-c8e9f96f-d8b3-42c0-ab9a-b070ecf7ebb3.png)
+![image](https://user-images.githubusercontent.com/67095986/206874365-7c433824-352f-472e-99f7-b1db0b27c512.png)
+![image](https://user-images.githubusercontent.com/67095986/206874370-0375dd8d-8db4-4e06-8cbb-79e71c816eac.png)
+![image](https://user-images.githubusercontent.com/67095986/206874375-48085b7d-5a51-4ec6-816a-af6a077045c9.png)
+![image](https://user-images.githubusercontent.com/67095986/206874507-f89d3578-da04-428b-ad21-6c95a1a7c6db.png)
+![image](https://user-images.githubusercontent.com/67095986/206874700-8e1f4b1e-016f-4687-ad4b-b915c86e7dcf.png)
+![image](https://user-images.githubusercontent.com/67095986/206874702-4d1cef7e-ec9b-4ece-94e0-d2fd8e82fbeb.png)
+![image](https://user-images.githubusercontent.com/67095986/206874716-839a6909-d932-4436-bce3-1c98454d246c.png)
 
-<!--
-**duarty/duarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
